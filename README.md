@@ -17,7 +17,7 @@ Build a Rest API with GoLang, please refer https://www.youtube.com/watch?v=d_L64
 
 > go get github.com/gin-gonic/gin
 
-- Install Postman
+# Install Postman
 
 Postman Download: https://www.postman.com/
 
